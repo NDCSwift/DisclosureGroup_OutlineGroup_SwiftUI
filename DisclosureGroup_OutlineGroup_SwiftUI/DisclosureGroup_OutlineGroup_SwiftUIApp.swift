@@ -18,7 +18,7 @@ import SwiftUI
 struct DisclosureGroup_OutlineGroup_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ExampleView()
         }
         #if os(macOS)
         .defaultSize(width: 100, height: 100)
