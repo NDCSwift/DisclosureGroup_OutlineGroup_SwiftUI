@@ -18,7 +18,7 @@ A focused SwiftUI demo covering `DisclosureGroup` and `OutlineGroup` — the two
 
 [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/0ZSmhUOXT7s)
 
-> This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97).
+> This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@noahdoescoding).
 
 ---
 
